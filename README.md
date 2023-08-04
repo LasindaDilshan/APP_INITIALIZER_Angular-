@@ -1,4 +1,8 @@
-# AppInizilizer
+# APP_INITIALIZER DI token
+
+It’s a really useful tool to fetch data or do actions before the application completes initialization.
+
+We can use APP_INITIALIZER to Load Configuration Details before Angular App start and also for Translate to different languages.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
 

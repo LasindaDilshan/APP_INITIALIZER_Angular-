@@ -1,0 +1,4 @@
+{
+    "baseUrl": "http//127.0.0.1/lasi-server",
+    "webSocketUrl": "ws://127.0.0.1:9080/lasi-steaming-api"
+}

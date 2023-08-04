@@ -4,6 +4,8 @@ It’s a really useful tool to fetch data or do actions before the application c
 
 We can use APP_INITIALIZER to Load Configuration Details before Angular App start and also for Translate to different languages.
 
+![image](https://github.com/LasindaDilshan/APP_INITIALIZER_Angular-/assets/32431966/c6af9942-beee-4409-a772-ae02bb38e0db)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
 
 ## Development server
